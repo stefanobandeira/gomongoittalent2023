@@ -1,5 +1,5 @@
 gomongoittalent2023
-Stéfano e Jarina
+Stéfano e Fabianny
 
 GET e POST
 ![Alt text](image-1.png)
